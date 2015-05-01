@@ -3,7 +3,7 @@ import Realm
 
 public class EntryHandler: NSObject {
     public func currentEntry() -> Entry {
-        let directory: NSURL = NSFileManager.defaultManager().containerURLForSecurityApplicationGroupIdentifier("group.it.fancypixel.BigGulp")!
+        let directory: NSURL = NSFileManager.defaultManager().containerURLForSecurityApplicationGroupIdentifier("group.com.natashaTheRobot.BigGulp")!
         let realmPath = directory.path!.stringByAppendingPathComponent("db.realm")
         RLMRealm.setDefaultRealmPath(realmPath)
         

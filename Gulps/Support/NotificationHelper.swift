@@ -75,6 +75,6 @@ class NotificationHelper {
 
     class func addGulp(size: String) {
         EntryHandler().addGulp(NSUserDefaults.groupUserDefaults().doubleForKey(size))
-        MMWormhole(applicationGroupIdentifier: "group.it.fancypixel.BigGulp", optionalDirectory: "biggulp").passMessageObject("todayUpdate", identifier: "mainUpdate")
+        MMWormhole(applicationGroupIdentifier: "group.com.natashaTheRobot.BigGulp", optionalDirectory: "biggulp").passMessageObject("todayUpdate", identifier: "mainUpdate")
     }
 }

@@ -16,7 +16,7 @@ class InterfaceController: WKInterfaceController {
     @IBOutlet weak var progressImage: WKInterfaceImage!
 
     let entryHandler = EntryHandler()
-    let wormhole = MMWormhole(applicationGroupIdentifier: "group.it.fancypixel.BigGulp", optionalDirectory: "biggulp")
+    let wormhole = MMWormhole(applicationGroupIdentifier: "group.com.natashaTheRobot.BigGulp", optionalDirectory: "biggulp")
     var previousPercentage = 0.0
 
     override func awakeWithContext(context: AnyObject?) {

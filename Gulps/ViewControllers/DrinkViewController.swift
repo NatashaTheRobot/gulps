@@ -15,7 +15,7 @@ public class DrinkViewController: UIViewController, UIAlertViewDelegate {
     @IBOutlet public var entryHandler: EntryHandler!
     public var userDefaults = NSUserDefaults.groupUserDefaults()
     var expanded = false
-    let wormhole = MMWormhole(applicationGroupIdentifier: "group.it.fancypixel.BigGulp", optionalDirectory: "biggulp")
+    let wormhole = MMWormhole(applicationGroupIdentifier: "group.com.natashaTheRobot.BigGulp", optionalDirectory: "biggulp")
 
     public override func viewDidLoad() {
         super.viewDidLoad()

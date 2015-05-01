@@ -15,7 +15,7 @@ class ActionInterfaceController: WKInterfaceController {
     @IBOutlet weak var smallButton: WKInterfaceButton!
     @IBOutlet weak var bigButton: WKInterfaceButton!
     let entryHandler = EntryHandler()
-    let wormhole = MMWormhole(applicationGroupIdentifier: "group.it.fancypixel.BigGulp", optionalDirectory: "biggulp")
+    let wormhole = MMWormhole(applicationGroupIdentifier: "group.com.natashaTheRobot.BigGulp", optionalDirectory: "biggulp")
 
     override func awakeWithContext(context: AnyObject?) {
         super.awakeWithContext(context)

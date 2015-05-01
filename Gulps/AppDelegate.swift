@@ -6,7 +6,7 @@ import DPMeterView
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-    let wormhole = MMWormhole(applicationGroupIdentifier: "group.it.fancypixel.BigGulp", optionalDirectory: "biggulp")
+    let wormhole = MMWormhole(applicationGroupIdentifier: "group.com.natashaTheRobot.BigGulp", optionalDirectory: "biggulp")
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
 

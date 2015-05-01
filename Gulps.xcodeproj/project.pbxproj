@@ -560,7 +560,7 @@
 					};
 					65F44C1A1AF24B440093A3E9 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = H72GR44F4M;
+						DevelopmentTeam = W6GNU64U6Q;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 1;
@@ -569,7 +569,7 @@
 					};
 					65F44C431AF24B770093A3E9 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = H72GR44F4M;
+						DevelopmentTeam = W6GNU64U6Q;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 1;
@@ -578,7 +578,7 @@
 					};
 					65F44C591AF24B8A0093A3E9 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = H72GR44F4M;
+						DevelopmentTeam = W6GNU64U6Q;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 1;
@@ -587,7 +587,7 @@
 					};
 					65F44C681AF24B8A0093A3E9 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = H72GR44F4M;
+						DevelopmentTeam = W6GNU64U6Q;
 					};
 				};
 			};

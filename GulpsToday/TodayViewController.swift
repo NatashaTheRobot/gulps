@@ -22,7 +22,7 @@ class TodayViewController: UIViewController, NCWidgetProviding {
     @IBOutlet var entryHandler: EntryHandler!
     
     var gulpSize = Settings.Gulp.Small
-    let wormhole = MMWormhole(applicationGroupIdentifier: "group.it.fancypixel.BigGulp", optionalDirectory: "biggulp")
+    let wormhole = MMWormhole(applicationGroupIdentifier: "group.com.natashaTheRobot.BigGulp", optionalDirectory: "biggulp")
 
     override func viewDidLoad() {
         super.viewDidLoad()
